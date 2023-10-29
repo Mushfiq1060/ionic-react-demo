@@ -1,0 +1,7 @@
+.table {
+  &[data-variant="proghours-ui"] {
+    tr {
+      --table-border-color: hsl(var(--border));
+    }
+  }
+}
